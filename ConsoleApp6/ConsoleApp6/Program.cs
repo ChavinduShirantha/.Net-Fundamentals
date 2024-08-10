@@ -1,5 +1,5 @@
 ﻿using System;
-class SampleTC
+class Boxing
 {
     public static void Main(string[] args)
     {
